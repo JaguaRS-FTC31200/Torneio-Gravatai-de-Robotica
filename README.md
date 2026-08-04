@@ -1,6 +1,3 @@
----
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,30:1E293B,60:EA580C,100:F97316&text=🐆%20JaguaRS%20%7C%20TRG&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=40&desc=Participa%C3%A7%C3%A3o%20no%20Torneio%20de%20Rob%C3%B3tica%20de%20Gravata%C3%AD&descAlignY=62"/>
