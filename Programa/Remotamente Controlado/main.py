@@ -122,7 +122,7 @@ while True:
                 elif value == 0: # Soltado
                     aux_speed = 0
 
-    # --- ESTES BLOCOS AGORA RODAM CONTINUAMENTE ---
+    #ESTES BLOCOS AGORA RODAM CONTINUAMENTE
     
     # Verificação periódica de portas conectadas
     tempo_agora = time.time()
@@ -155,7 +155,6 @@ while True:
     except Exception:
         pass
 
-    # Pequena pausa para não sobrecarregar o processador do EV3
-    time.sleep(0.01)
+    time.sleep(0.01)#pausa estrategica
 
 in_file.close()
