@@ -13,7 +13,7 @@
 
 ---
 
-# 🤖 Participação na Temporada
+# Participação na Temporada
 
 Este repositório reúne a documentação, estratégias e códigos do projeto desenvolvido pela equipe **JaguaRS** para o **Torneio de Robótica de Gravataí (TRG)**.
 
@@ -24,7 +24,7 @@ Nesta edição, sob o tema **Futuro da Indústria**, nosso robô combina a plata
 
 ---
 
-# 📊 Dashboard da Competição
+# Dashboard da Competição
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Nesta edição, sob o tema **Futuro da Indústria**, nosso robô combina a plata
 
 ---
 
-# 🛠️ Tecnologias & Desenvolvimento
+# Tecnologias & Desenvolvimento
 
 <div align="center">
 
@@ -57,48 +57,47 @@ Nesta edição, sob o tema **Futuro da Indústria**, nosso robô combina a plata
 
 ---
 
-# 🎯 Objetivos na Competição
+# Objetivos na Competição
 
-<div align="center">
 
-🟠 Construir um robô preciso unindo a versatilidade do **LEGO EV3** à prototipagem em **Impressão 3D**
+- Construir um robô preciso unindo a versatilidade do **LEGO EV3** à prototipagem em **Impressão 3D**
 
-🟠 Desenvolver garras e mecanismos sob medida para a manipulação eficiente das peças do jogo
+- Desenvolver garras e mecanismos sob medida para a manipulação eficiente das peças do jogo
 
-🟠 Maximizar a pontuação e a cooperação (CO-OP) na **Quadra Cooperativa**
+- Maximizar a pontuação e a cooperação (CO-OP) na **Quadra Cooperativa**
 
-🟠 Apresentar uma **Iniciativa Inovadora** viável e com impacto positivo na indústria local
+- Apresentar uma **Iniciativa Inovadora** viável e com impacto positivo na indústria local
 
 </div>
 
 ---
 
-# 🔄 Pipeline de Desenvolvimento
+# Pipeline de Desenvolvimento
 
 ```text
-💡 Problema Industrial e ODS
+Problema Industrial e ODS
   │
-  ├─► 🔬 Pesquisa da Iniciativa Inovadora
+  ├─► Pesquisa da Iniciativa Inovadora
   │
-  ├─► 📐 Modelagem CAD & Impressão 3D de Peças
+  ├─► Modelagem CAD & Impressão 3D de Peças
   │
-  ├─► 🧱 Montagem Estrutural (LEGO EV3 + Componentes 3D)
+  ├─► Montagem Estrutural (LEGO EV3 + Componentes 3D)
   │
-  ├─► 💻 Programação do EV3 (Blocos / Python)
+  ├─► Programação do EV3 (Blocos / Python)
   │
-  ├─► ⚙️ Testes na Quadra & Calibração de Sensores
+  ├─► Testes na Quadra & Calibração de Sensores
   │
-  └─► 🏆 Torneio de Robótica de Gravataí
+  └─► Torneio de Robótica de Gravataí
 
 ```
 
 ---
 
-# 📍 Informações do Torneio
+# Informações do Torneio
 
-📷 **Instagram Oficial do Evento:** [@torneioroboticagravatai](https://www.google.com/search?q=https://instagram.com/torneioroboticagravatai)
+**Instagram Oficial do Evento:** [@torneioroboticagravatai](https://www.google.com/search?q=https://instagram.com/torneioroboticagravatai)
 
-📍 **Local:** Ginásio Municipal Aline Fofonka — Gravataí / RS
+**Local:** Ginásio Municipal Aline Fofonka — Gravataí / RS
 
 ---
 
