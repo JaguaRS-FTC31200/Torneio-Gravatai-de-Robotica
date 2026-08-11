@@ -14,7 +14,7 @@ motor_c = None
 modo_atual = "Wait"
 
 # Configurações do Elevador
-TAMANHO_ENGRENAGEM = 28
+TAMANHO_ENGRENAGEM = 37
 TOTAL_DENTES_CREMALHEIRA = 37 
 LIFT_POWER = int(1200 / TAMANHO_ENGRENAGEM)
 
